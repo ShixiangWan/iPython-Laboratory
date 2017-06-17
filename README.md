@@ -9,4 +9,4 @@ Some important original experiments designed by jupyter notebook.
   + tensor-bio.ipynb: tensorflow implementation.
 
 + Kaggle-ZillowPrize
-  + main.ipynb: explorer experiments.
+  + explorer.ipynb: explorer experiments.
