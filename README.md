@@ -11,6 +11,5 @@ Some important original experiments designed by jupyter notebook.
 + Kaggle-ZillowPrize
   + explorer.ipynb: explorer experiments.
   
-  
-+ UPDATE
-  + 2017-06-17: add Kaggle-ZillowPrize.
++ gcForest
+  + gcForest.ipynb: gcForest demo (http://lamda.nju.edu.cn/code_gcForest.ashx)
